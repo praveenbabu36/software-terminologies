@@ -1,0 +1,5 @@
+Horizontal Scaling  -   Scale your system by adding more machines.
+
+  Scale Out/In      -   Increase (out) or Decrease(In) the machines.
+      
+Vertical Scaling    -   Scale your system by increasing the power of your existing machine. 
