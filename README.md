@@ -1,2 +1,2 @@
 # software-terminologies
-Basic Software Terminologies
+Software Terminologies - Help
